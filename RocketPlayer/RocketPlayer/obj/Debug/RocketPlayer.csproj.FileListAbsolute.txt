@@ -1,0 +1,10 @@
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\bin\Debug\RocketPlayer.exe.config
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\bin\Debug\RocketPlayer.exe
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\bin\Debug\RocketPlayer.pdb
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\obj\Debug\RocketPlayer.csprojAssemblyReference.cache
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\obj\Debug\RocketPlayer.Form1.resources
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\obj\Debug\RocketPlayer.Properties.Resources.resources
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\obj\Debug\RocketPlayer.csproj.GenerateResource.cache
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\obj\Debug\RocketPlayer.csproj.CoreCompileInputs.cache
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\obj\Debug\RocketPlayer.exe
+C:\Users\xicocana\source\repos\RocketPlayer\RocketPlayer\obj\Debug\RocketPlayer.pdb
